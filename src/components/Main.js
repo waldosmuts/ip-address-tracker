@@ -69,7 +69,7 @@ export default function Main() {
         <main className="flex flex-col items-center font-rubik px-6">
             <form onSubmit={handleSubmit} className="flex w-full max-w-[560px] h-14 rounded-2xl shadow-md">
                 <input className="bg-white text-lg text-very-dark-gray rounded-l-2xl px-6 w-full focus:outline-none" type="text" onChange={handleChange} value={ipAddressInput} placeholder="Search for any IP address or domain" />
-                <button className="bg-black w-14 shrink-0 rounded-r-2xl flex justify-center items-center" type="submit"><img className="pointer-events-none" src={ArrowIcon} alt="" /></button>
+                <button className="bg-black hover:bg-very-dark-gray w-14 shrink-0 rounded-r-2xl flex justify-center items-center" type="submit"><img className="pointer-events-none" src={ArrowIcon} alt="" /></button>
             </form>
             <section className="flex flex-col md:flex-row items-center md:items-stretch gap-6 bg-white w-full max-w-[1100px] rounded-2xl mt-6 py-6 md:p-8 shadow-md md:absolute md:top-[280px] md:mt-0 md:-translate-y-1/2">
                 <div className="flex flex-col items-center md:items-start md:justify-center md:w-full gap-y-1 md:gap-y-4 md:border-r md:border-dark-gray md:border-opacity-30">
