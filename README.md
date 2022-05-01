@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/waldosmuts/ip-address-tracker)
-- Live Site URL: [Live Preview](https://crowdfund-mastercraft.netlify.app/)
+- Live Site URL: [Live Preview](https://ip-address-tracker-ipify.netlify.app/)
 
 ## My process
 
