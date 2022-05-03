@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/waldosmuts/ip-address-tracker)
-- Live Site URL: [Live Preview](https://crowdfund-mastercraft.netlify.app/)
+- Live Site URL: [Live Preview](https://ip-address-tracker-ipify.netlify.app/)
 
 ## My process
 
@@ -41,8 +41,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Tailwind](https://tailwindcss.com/) - CSS framework
+- [React](https://reactjs.org/) - JS Library
+- [Tailwind](https://tailwindcss.com/) - CSS Framework
+- [Ipify](https://www.ipify.org/) - IP Address API
+- [Mapbox](https://www.mapbox.com/) - Map API
 
 ### Continued development
 
