@@ -25,11 +25,6 @@
     ]
   },
   "browserslist": {
-    "browserslist": [
-      "defaults",
-      "not IE 11",
-      "maintained node versions"
-    ],
     "production": [
       ">0.2%",
       "not dead",
